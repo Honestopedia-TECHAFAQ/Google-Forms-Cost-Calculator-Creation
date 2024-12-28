@@ -1,0 +1,7 @@
+{
+    "Kitchen Remodeling": {"price": 2000},
+    "Bathroom Renovation": {"price": 1500},
+    "Painting": {"price": 500},
+    "Flooring": {"price": 1000},
+    "Roofing": {"price": 2500}
+}
